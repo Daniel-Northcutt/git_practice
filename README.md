@@ -1,2 +1,2 @@
-# gitexercise 1 & 2 - Ignore other Repos
+# gitexercise 1 & 2
 
